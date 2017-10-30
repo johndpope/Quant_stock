@@ -1,6 +1,6 @@
-
-pip install googlefinance
-pip install googlefinance.client
+# Requirements     
+pip install googlefinance     
+pip install googlefinance.client     
 
 
 
